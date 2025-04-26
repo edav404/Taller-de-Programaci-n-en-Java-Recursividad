@@ -16,5 +16,6 @@ Este taller contiene una serie de ejercicios sobre recursividad en Java
 ---
 
 # 🚀 Autor
-[Emmanuel Dávila]
+
+Emmanuel Dávila
 
